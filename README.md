@@ -4,5 +4,5 @@ Machine Learning Resource
   http://www.deeplearningbook.org/
 
 Blog
-－－－－－－－－－
-＊ http://www.cnblogs.com/pinard/
+--------------
+* http://www.cnblogs.com/pinard/
