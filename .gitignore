@@ -1,6 +1,8 @@
 *.class
-
+.idea
+.ipynb_checkpoints
 # Package Files #
 *.jar
 *.war
 *.ear
+
